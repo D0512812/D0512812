@@ -39,7 +39,7 @@ public class Triangle{
 				return "直角三角形";
 			}
 			else {
-				return "一般三角形";
+				return "tri";
 			}
 		}
 		return "不是三角形";
