@@ -9,6 +9,6 @@ public class TriangleTest {
 	@Test
 	public void testCheckTriangle3() {
 		Triangle a = new Triangle();
-		assertEquals("tri"   , a.CheckTriangle(2, 3, 4));
+		assertEquals("1", a.CheckTriangle(2, 3, 4));
 	}	
 }
