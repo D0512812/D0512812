@@ -1,5 +1,4 @@
-package triangle;
-
+package HW;
 
 public class Triangle{ 
 
